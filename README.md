@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+- User - focused on the user.
+- Submission - the user authors this. Has different media (text, image/video, link)
+- Community - Category based on submissions
+- Comments - A response given to the submission from another user to a given user.
+- Subscription - Not to be confused with billing. A user can subsrcribe and unsubscribe to a community.
